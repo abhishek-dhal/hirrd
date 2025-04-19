@@ -27,7 +27,6 @@ This is a Full Stack Job Portal with React Js,Tailwind CSS,supabase,Clerk,Shadcn
 
 ---
 
-## 📂 Project Structure
 
 
 
