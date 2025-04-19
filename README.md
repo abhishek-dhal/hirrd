@@ -1,7 +1,6 @@
 # 🧠 AI-Powered Job Portal
 
-This is a full-stack AI-powered job portal platform built using **Next.js**, **MongoDB**, and **OpenAI GPT** for smart job recommendations and resume screening.
-
+This is a Full Stack Job Portal with React Js,Tailwind CSS,supabase,Clerk,Shadcn UI 
 
 
 
